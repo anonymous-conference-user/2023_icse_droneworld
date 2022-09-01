@@ -1,0 +1,16 @@
+{
+    "Properties": [
+      {
+        "Human_Interaction": {
+          "Enabled": true,
+          "Config": {
+            "Input_Source": "Keyboard"
+          },
+          "Params": {
+            "UAV": ["ID", "Status"]            
+          }
+        }
+      }
+      
+    ]
+  }

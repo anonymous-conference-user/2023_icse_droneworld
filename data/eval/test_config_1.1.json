@@ -1,0 +1,15 @@
+{
+	"Properties": [
+		{
+			"Lateral-Sep-Distance": {
+				"Enabled": true,
+				"Config": {
+					"Min_sep": 20
+				},
+				"Params": {
+					"UAV": ["ID", "pos", "dist"]
+				}
+			}
+		}
+	]
+}
