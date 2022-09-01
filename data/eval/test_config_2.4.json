@@ -1,0 +1,13 @@
+{
+	"Properties": [
+		{
+			"MissionDuration": {
+				"Enabled": true,
+				
+				"Params": {
+					"UAV": ["ID", "FlightTime"]
+				}
+			}
+		}
+	]
+}

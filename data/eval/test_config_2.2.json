@@ -1,0 +1,15 @@
+{
+	"Properties": [{
+			"No-Landing-Zones": {
+				"Enabled": true,
+				"Config":{
+					"MaxLandingArea":8
+				}
+
+				"Params": {
+					"UAV": ["Status","ID", "Pos"]
+				}
+			}
+		}
+	]
+}

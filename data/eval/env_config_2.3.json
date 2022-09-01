@@ -1,0 +1,64 @@
+{
+    "SettingsVersion": 1.2,
+    "SimMode": "Multirotor",
+    "ViewMode": "",
+    "Vehicles":{
+        "Drone1": {
+            "VehicleType": "PX4Multirotor",
+            "LockStep": true,
+            "UseSerial": false,
+            "UseTcp": true,
+            "TcpPort": 4560,
+            "ControlPortLocal": 14550,
+            "ControlPortRemote": 18570,
+            "X": 0, "Y": 0, "Z": 0
+            
+        },
+        "Drone2": {
+            "VehicleType": "PX4Multirotor",
+            "LockStep": true,
+            "UseSerial": false,
+            "UseTcp": true,
+            "TcpPort": 4561,
+            "ControlPortLocal": 14551,
+            "ControlPortRemote": 18571,
+            "X": -50.36114814, "Y": -50.64971754247057, "Z": -0.007202774951196034
+
+            
+        },
+        "Drone3": {
+            "VehicleType": "PX4Multirotor",
+            "LockStep": true,
+            "UseSerial": false,
+            "UseTcp": true,
+            "TcpPort": 4562,
+            "ControlPortLocal": 14552,
+            "ControlPortRemote": 18572,
+            "X": 50.05367823865737, "Y": -50.3205776886419, "Z": -0.0017209267050759536
+        },
+        "Drone4": {
+            "VehicleType": "PX4Multirotor",
+            "LockStep": true,
+            "UseSerial": false,
+            "UseTcp": true,
+            "TcpPort": 4562,
+            "ControlPortLocal": 14552,
+            "ControlPortRemote": 18572,
+            "X": 100.05367823865737, "Y": -100.3205776886419, "Z": -0.0017209267050759536
+        }
+
+        
+    },
+    "OriginGeopoint": {
+        "Latitude": 9.515857, 
+        "Longitude": -5.755172,
+        "Altitude": 117.0
+      },
+    "Parameters": {
+        "NAV_RCL_ACT": 0,
+        "NAV_DLL_ACT": 0,
+        "COM_OBL_ACT": 1,
+        "LPE_LAT": 9.515857,
+        "LPE_LON": -5.755172
+    }
+}

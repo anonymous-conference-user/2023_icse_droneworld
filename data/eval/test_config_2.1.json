@@ -1,0 +1,12 @@
+{
+	"Properties": [{
+			"No-Fly-Zones": {
+				"Enabled": true,
+				"Params": {
+					"UAV": ["ID", "Pos", "Dist"],
+					"Environment":["No-Fly-Zones"]
+				}
+			}
+		}
+	]
+}
