@@ -25,3 +25,5 @@ We address this challenge by presenting DroneWorld, a testing and simulation pla
 | C2.2    	| No sUAS will land in the water or on the beach.                                                                                  	| [test_config_2.2.json](/data/eval/test_config_2.2.json) 	| [env_config_2.2.json](/data/eval/env_config_2.2.json) 	|   	|
 | C2.3    	| sUAS must perform a “safe” takeoff during the mission maintaining both lateral and altitude distance.                         	| [test_config_2.3.json](/data/eval/test_config_2.3.json) 	| [env_config_2.3.json](/data/eval/env_config_2.3.json) 	|   	|
 | C2.4    	| Routes must be completed successfully in winds up to 20mph.                                                                   	| [test_config_2.4.json](/data/eval/test_config_2.4.json) 	| [env_config_2.4.json](/data/eval/env_config_2.4.json) 	|   	|
+
+_* Please note that geolocations (latitude, longitude) were obfuscated to meet double-blind requirements (We will release all original test results, logs and configurations in our public GitHub repository when the paper is accepted)._
